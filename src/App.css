@@ -1,0 +1,25 @@
+.App {
+  text-align: left;
+}
+a{
+  text-decoration: none;
+}
+body{
+  background: #555;
+  color:#fff;
+}
+ 
+.homeicon{
+  font-size:35px !important;
+  fill:green !important;
+}
+h6{
+  font-weight:bold !important;
+  color:green !important;
+  display: grid !important;
+    font-size: 10px !important;
+}
+.right{ position: absolute;
+  right: 25px;}
+  .rightpop{ position: absolute;
+    right: 165px;}
